@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "nubank",
-    "slug": "nubank",
+    "slug": "snack-a3bb8065-345e-4d01-bbcd-9b50f783222c",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.paulob3j.snacka3bb8065345e4d01bbcd9b50f783222c"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e45884df-7268-4c17-962d-5b634d78799d"
+      }
     }
   }
 }
